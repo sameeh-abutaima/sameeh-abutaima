@@ -18,7 +18,7 @@ ASP.NET Core Web API Developer 💻
 - Java
 - SQL Server
 - MySQL
-- HTML, CSS, JavaScript.
+- HTML, CSS.
 
 ### Familiar with :
 - ASP.NET Core Web API
