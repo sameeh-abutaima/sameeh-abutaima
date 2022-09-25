@@ -25,14 +25,13 @@ ASP.NET Core Web API Developer 💻
 - ASP.NET Core MVC
 
 
-
+<!---
 <div align='center' width='100%' >
 
-[comment]: <> (![GitHub stats width='100%'](https://github-readme-stats.vercel.app/api?username=sameeh-abutaima&show_icons=true))
-  
-[comment]: <> (![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sameeh-abutaima))
+![GitHub stats width='100%'](https://github-readme-stats.vercel.app/api?username=sameeh-abutaima&show_icons=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sameeh-abutaima)
   </div>
-  
+ ---> 
 ## You can find me here :
 
 <div align='center' >
