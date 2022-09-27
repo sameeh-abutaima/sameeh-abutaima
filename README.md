@@ -33,8 +33,8 @@ ASP.NET Core Web API Developer 💻
   </div>
  ---> 
 ## You can find me here :
-<h3>
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align='center'> sameeh-abutaima](https://www.linkedin.com/in/sameeh-abutaima) <br><br></h3>
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align='center'> sameeh-abutaima](https://www.linkedin.com/in/sameeh-abutaima) <br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' align='center'> sameeh_abutaima](https://twitter.com/sameeh_abutaima)<br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40' align='center'> sameeh_abutaima](https://www.instagram.com/sameeh_abutaima)<br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40' align='center'> sameeh.abutaima](https://www.facebook.com/sameeh.abutaima)<br><br>
