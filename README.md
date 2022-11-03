@@ -36,7 +36,7 @@ ASP.NET Core Web API Developer 💻
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align='center'> sameeh-abutaima](https://www.linkedin.com/in/sameeh-abutaima) <br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' align='center'> sameeh_abutaima](https://twitter.com/sameeh_abutaima)<br><br>
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40' align='center'> sameeh_abutaima](https://www.instagram.com/sameeh_abutaima)<br><br>
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40' align='center'> sameeh.abutaima](https://www.instagram.com/sameeh_abutaima)<br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40' align='center'> sameeh.abutaima](https://www.facebook.com/sameeh.abutaima)<br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='WhatsApp' height='40' align='center'> +970599186971](https://api.whatsapp.com/send/?phone=970599186971&text&type=phone_number&app_absent=0)<br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40' align='center'> sameeh_abutaima ](https://t.me/sameeh_abutaima)<br><br>
