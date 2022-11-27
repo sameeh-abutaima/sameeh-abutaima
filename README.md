@@ -34,12 +34,12 @@ ASP.NET Core Web API Developer 💻
  ---> 
 ## You can find me here :
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align='center'> sameeh-abutaima](https://www.linkedin.com/in/sameehabutaima) <br><br>
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align='center'> sameehabutaima](https://www.linkedin.com/in/sameehabutaima) <br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' align='center'> sameehabutaima](https://twitter.com/sameehabutaima)<br><br>
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40' align='center'> sameeh.abutaima](https://www.instagram.com/sameehabutaima)<br><br>
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40' align='center'> sameeh.abutaima](https://www.facebook.com/sameehabutaima)<br><br>
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40' align='center'> sameehabutaima](https://www.instagram.com/sameehabutaima)<br><br>
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40' align='center'> sameehabutaima](https://www.facebook.com/sameehabutaima)<br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='WhatsApp' height='40' align='center'> +970599186971](https://api.whatsapp.com/send/?phone=970599186971&text&type=phone_number&app_absent=0)<br><br>
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40' align='center'> sameeh_abutaima ](https://t.me/sameehabutaima)<br><br>
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40' align='center'> sameehabutaima ](https://t.me/sameehabutaima)<br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40' align='center'> Sameeh Abutaima](https://www.youtube.com/channel/UCr36_aOwyiEzGaD_wpBLfQA)
 
 <!---
