@@ -40,7 +40,7 @@ ASP.NET Core Web API Developer 💻
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40' align='center'> sameehabutaima](https://www.facebook.com/sameehabutaima)<br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='WhatsApp' height='40' align='center'> +970599186971](https://api.whatsapp.com/send/?phone=970599186971&text&type=phone_number&app_absent=0)<br><br>
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40' align='center'> sameehabutaima ](https://t.me/sameehabutaima)<br><br>
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40' align='center'> Sameeh Abutaima](https://www.youtube.com/channel/UCr36_aOwyiEzGaD_wpBLfQA)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40' align='center'> sameehabutaima](https://www.youtube.com/@sameehabutaima)
 
 <!---
 - 👋 Hi, I’m @sameeh-abutaima
